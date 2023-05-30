@@ -64,4 +64,17 @@ void insertNumberTest() {
 
 
 }
+@Test
+void removeNumberTest() {
+	//TODO
+}
+@Test
+void binarySearchTest() {
+	//TODO test for understanding the standart method Arrays.binarySearch(int [] arraysSorted,
+	//int key
+}
+@Test
+void insertSortedTest() {
+	//TODO
+}
 }
